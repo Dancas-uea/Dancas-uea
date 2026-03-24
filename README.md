@@ -1,42 +1,45 @@
-<p align="left">Hello world, I´m Carlos  Armoroot 👋</p>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+# 👋 ¡Hola, soy Carlos Castillo!
 
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"  />
+    <img height="150" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"  />
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 🎯 Sobre Mí
 
-###
+<style>
+.presentacion {
+    font-size: 1.2em;
+    line-height: 1;
+    color: #e9e4e4;
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 600px;
+       text-align: ;
+}
+</style>
+
+
+<p class=presentacion>
+    Soy un ingeniero apasionado con formación dual en <b>Ambiente</b> y <b>Tecnologías de la Información</b>. Mi misión es crear soluciones innovadoras que logren <b></b>lo imposible</b>, combinando excelencia técnica con responsabilidad ambiental.
+</p>
+
+
+
+> *"No se trata de escribir código, se trata de crear impacto"*
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dancas-uea.Dancas-uea&left_text=Visitas"  />
 </div>
 
-###
+---
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías de la Información. Mi misión es crear soluciones innovadoras que logren lo imposible. Combinando conocimientos técnicos con perspectiva ambiental, desarrolló proyectos que no solo funcionan, sino que generan impacto positivo.<br>>_La verdadera ingeniería es convertir ideas en realidad, sin importar los límites que otros vean"</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
