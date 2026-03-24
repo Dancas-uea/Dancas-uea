@@ -5,8 +5,7 @@
     <img height="150" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"  />
 </div>
 
----
-
+#
 <p align="center">
 <strong>Ingeniero en Ambiente | Ingeniero en Tecnologías de la Información</strong>
 </p>
@@ -15,9 +14,9 @@
 📍 Lago Agrio, Ecuador - Passo Fundo, Brasil - Barcelona, España
 </p>
 
----
+#
 
-## 🎯 Sobre Mí
+<h3 align="left">🎯 Sobre Mí</h3>
 
 Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías de la Información. Mi misión es crear soluciones innovadoras que logren lo imposible. Combinando conocimientos técnicos con perspectiva ambiental, desarrolló proyectos que no solo funcionan, sino que generan impacto positivo.<br>
 >*"La verdadera ingeniería es convertir ideas en realidad, sin importar los límites que otros vean"*
