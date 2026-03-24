@@ -9,21 +9,9 @@
 
 ## 🎯 Sobre Mí
 
-<style>
-.presentacion {
-    font-size: 1.2em;
-    line-height: 1;
-    color: #e9e4e4;
-    font-family: 'Courier New', Courier, monospace;
-    max-width: 600px;
-       text-align: ;
-}
-</style>
-
-
-<p class=presentacion>
-    Soy un ingeniero apasionado con formación dual en <b>Ambiente</b> y <b>Tecnologías de la Información</b>. Mi misión es crear soluciones innovadoras que logren <b></b>lo imposible</b>, combinando excelencia técnica con responsabilidad ambiental.
-</p>
+Soy un ingeniero apasionado con formación dual en <b>Ambiente</b> y <b>Tecnologías de la Información</b>. 
+Mi misión es <b>crear soluciones innovadoras que logren lo imposible</b>, 
+combinando excelencia técnica con responsabilidad ambiental.
 
 
 
