@@ -18,6 +18,7 @@
 
 <h3 align="left">🎯 Sobre Mí</h3>
 
+#
 Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías de la Información. Mi misión es crear soluciones innovadoras que logren lo imposible. Combinando conocimientos técnicos con perspectiva ambiental, desarrolló proyectos que no solo funcionan, sino que generan impacto positivo.<br>
 >*"La verdadera ingeniería es convertir ideas en realidad, sin importar los límites que otros vean"*
 
@@ -28,10 +29,10 @@ Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías d
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dancas-uea.Dancas-uea&left_text=Visitas"  />
 </div>
 
----
+#
 <h3 align="left">📬 Conecta Conmigo</h3>
 
----
+#
 
 <div align="center">
   <a href="www.linkedin.com/in/castillo-cabrera-carlos-daniel-8232422b4" target="_blank">
@@ -48,13 +49,13 @@ Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías d
   </a>
 </div>
 
-###
+#
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
 
----
+#
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
@@ -72,11 +73,11 @@ Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías d
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo"  />
 </div>
 
-###
+#
 
-<p align="left">Github Status</p>
+<h3 align="left">📊 Github Status</h3>
 
-###
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dancas-uea&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -85,22 +86,4 @@ Soy un ingeniero apasionado con una formación dual en Ambiente y Tecnologías d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dancas-uea&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<p align="left">Historico Commits</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dancas-uea/Dancas-uea/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dancas-uea/Dancas-uea/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dancas-uea/Dancas-uea/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+#
